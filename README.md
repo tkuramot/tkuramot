@@ -9,9 +9,9 @@
 <p align="center"> 
   <img src="https://badge42.vercel.app/api/v2/clizjy5a8000609kzcf9kczes/stats?cursusId=21&coalitionId=308">
 </p> -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K4-R4&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K4-R4&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K4-R4&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K4-R4&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K4-R4&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkuramot&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkuramot&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkuramot&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkuramot&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkuramot&theme=nord_dark&utcOffset=8)
 
