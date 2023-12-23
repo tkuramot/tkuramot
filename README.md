@@ -4,10 +4,10 @@
  -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkuramot&langs_count=20&exclude_repo=cs50-introduction-to-game-development&layout=compact&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkuramot&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkuramot&theme=nord_dark)
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkuramot&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkuramot&theme=nord_dark)
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkuramot&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkuramot&theme=nord_dark&utcOffset=8)
