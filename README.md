@@ -8,4 +8,4 @@ Bridge the browser and your host machine — write userscripts that invoke local
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkuramot&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkuramot&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
