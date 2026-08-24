@@ -11,4 +11,4 @@ Read and annotate PDFs and EPUBs in Obsidian, with the annotations stored as lin
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkuramot&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tkuramot&layout=compact&hide_title=true&langs_count=6&disable_animations=true)
